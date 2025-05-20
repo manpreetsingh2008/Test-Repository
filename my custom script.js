@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Privacy Script</title>
-</head>
-<body>
 
-<script>
+
 "use strict";
 function _typeof(t) {
   return (_typeof =
@@ -88,9 +82,8 @@ function _typeof(t) {
   };
   "undefined" != typeof module ? (module.exports = t) : t();
 })();
-</script>
 
-<script>
+
 window._sp_queue = [];
 
 window._sp_ = {
@@ -130,9 +123,6 @@ window._sp_ = {
     }
   }
 };
-</script>
 
-<script src="https://cdn.privacy-mgmt.com/unified/wrapperMessagingWithoutDetection.js" async></script>
 
-</body>
-</html>
+
