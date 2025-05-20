@@ -76,7 +76,7 @@ onPMCancel: function() {
 
         }
 
-    }
+    };
 </script>
 <script src='https://cdn.privacy-mgmt.com/unified/wrapperMessagingWithoutDetection.js' async></script>
 
